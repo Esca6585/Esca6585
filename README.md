@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <hr>
 <p align="center">
-<a href="https://www.linkedin.com/in/esca-meredoff-48468b16a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shamuhammet ylyasov" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/esca-meredoff-48468b16a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Esca Meredoff" height="30" width="40" /></a>
 </p>
 
 
