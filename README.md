@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Laravel Advanced**
 
-- 👯 I’m looking to collaborate on **Skype**
+- 👯 I’m looking to collaborate on **Skype** and **Telegram**
 
 - 🤝 I’m looking for help with **Microservices**
 
