@@ -14,6 +14,8 @@
 - 💬 Ask me about **PHP(Laravel)**
 
 - 📫 How to reach me **esca656585@gmail.com**
+
+- 📫 How to contact me **+993-65-65-65-85** (tmcell)
 <a href="#" class="fa fa-facebook"></a>
 <h3 align="left">Connect with me:</h3>
 <hr>
