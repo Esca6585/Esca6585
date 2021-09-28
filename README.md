@@ -1,11 +1,7 @@
+![IntroReveal](https://user-images.githubusercontent.com/64286632/135035653-54034417-3137-44ba-aaee-4cd6a0d78d06.gif)
+
 <h1 align="center">Hi 👋, I'm Esca Meredoff</h1>
 <h3 align="center">A passionate full stack web developer from Turkmenistan</h3>
-
-
-
-https://user-images.githubusercontent.com/64286632/135035079-394d8ccc-471d-46a8-b5c7-bc099bfa31de.mp4
-
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Esca6585&label=Profile%20views&color=0e75b6&style=flat" alt="esca-meredoff" /> </p>
 
