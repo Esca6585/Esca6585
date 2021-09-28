@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Esca Meredoff</h1>
 <h3 align="center">A passionate full stack web developer from Turkmenistan</h3>
 
+**https://user-images.githubusercontent.com/64286632/135034778-6a425035-db4b-40e7-9722-c7d5982992f0.mp4**
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Esca6585&label=Profile%20views&color=0e75b6&style=flat" alt="esca-meredoff" /> </p>
 
 - 🔭 I’m currently working on **Laravel app**
@@ -51,5 +53,8 @@
 
 
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Esca6585&" alt="esca-meredoff" /></p>
+<p align="center">
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Esca6585&" alt="esca-meredoff" /></p>
+
 
