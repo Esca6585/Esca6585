@@ -1,4 +1,5 @@
-![IntroReveal](https://user-images.githubusercontent.com/64286632/135035653-54034417-3137-44ba-aaee-4cd6a0d78d06.gif)
+![001](https://user-images.githubusercontent.com/64286632/136957894-f6ae87bf-9b04-40f6-a8f5-6d5c83a24f7b.gif)
+
 
 <h1 align="center">Hi 👋, I'm Esca Meredoff</h1>
 <h3 align="center">A passionate full stack web developer from Turkmenistan</h3>
