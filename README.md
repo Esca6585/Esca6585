@@ -1,4 +1,6 @@
-<img style="align-items: center" src="https://user-images.githubusercontent.com/64286632/136957894-f6ae87bf-9b04-40f6-a8f5-6d5c83a24f7b.gif" alt="Esca Meredoff GIF"/>
+<img style="display: flex;
+  align-items: center;
+  justify-content: center;" src="https://user-images.githubusercontent.com/64286632/136957894-f6ae87bf-9b04-40f6-a8f5-6d5c83a24f7b.gif" alt="Esca Meredoff GIF"/>
 
 <h1 align="center">Hi 👋, I'm Esca Meredoff</h1>
 <h3 align="center">A passionate full stack web developer from Turkmenistan</h3>
