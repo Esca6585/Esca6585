@@ -1,5 +1,4 @@
-![001](https://user-images.githubusercontent.com/64286632/136957894-f6ae87bf-9b04-40f6-a8f5-6d5c83a24f7b.gif)
-
+<div align="center">![001](https://user-images.githubusercontent.com/64286632/136957894-f6ae87bf-9b04-40f6-a8f5-6d5c83a24f7b.gif)</div>
 
 <h1 align="center">Hi 👋, I'm Esca Meredoff</h1>
 <h3 align="center">A passionate full stack web developer from Turkmenistan</h3>
