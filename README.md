@@ -24,6 +24,8 @@ My Projects:
 ["Türkmenstandartlary" Baş Döwlet Gullugy](https://tds.gov.tm/tm) click link go to official website
 [tds.gov.tm](https://tds.gov.tm/tm)
 
+<img src="https://tds.gov.tm/img/tds-logo/tds-logo.webp" alt="https://tds.gov.tm/img/tds-logo/tds-logo.webp">
+
 <h3 align="left">Connect with me:</h3>
 <hr>
 <p align="center">
