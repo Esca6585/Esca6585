@@ -23,7 +23,8 @@ My Projects:
 
 ["Türkmenstandartlary" Baş Döwlet Gullugy](https://tds.gov.tm/tm) click link go to official website
 [tds.gov.tm](https://tds.gov.tm/tm)
-<img src="https://user-images.githubusercontent.com/64286632/231984744-6926e7a1-53ff-4f97-87fd-89c0a52dde13.png" alt="https://tds.gov.tm" height="30" width="40" >
+
+<a href="https://tds.gov.tm" target="blank"><img align="center" src="https://user-images.githubusercontent.com/64286632/231984744-6926e7a1-53ff-4f97-87fd-89c0a52dde13.png" alt="tds.gov.tm" height="120" width="150" />
 
 <h3 align="left">Connect with me:</h3>
 <hr>
