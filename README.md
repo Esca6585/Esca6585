@@ -20,11 +20,10 @@
 - 📱 How to contact me **+993-65-65-65-85 (tmcell)
 
 My Projects: 
-![tds-logo](https://user-images.githubusercontent.com/64286632/231984744-6926e7a1-53ff-4f97-87fd-89c0a52dde13.png)
+
 ["Türkmenstandartlary" Baş Döwlet Gullugy](https://tds.gov.tm/tm) click link go to official website
 [tds.gov.tm](https://tds.gov.tm/tm)
-
-<img src="https://tds.gov.tm/img/tds-logo/tds-logo.webp" alt="https://tds.gov.tm/img/tds-logo/tds-logo.webp">
+<img src="https://user-images.githubusercontent.com/64286632/231984744-6926e7a1-53ff-4f97-87fd-89c0a52dde13.png" alt="https://tds.gov.tm" height="30" width="40" >
 
 <h3 align="left">Connect with me:</h3>
 <hr>
