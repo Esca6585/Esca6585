@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Esca6585&label=Profile%20views&color=0e75b6&style=flat" alt="esca-meredoff" /> </p>
 
-- 🔭 I’m currently working on **React JS, Vue JS, Next JS, Nuxt JS, Adonis JS, Nest JS, PHP, Laravel, Laravel Advanced**
+- 🔭 I’m currently working on ⚛️ **React JS, Vue JS, Next JS, Nuxt JS, Adonis JS, Nest JS, PHP, Laravel, Laravel Advanced**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React Native** ⚛️
 
 - 👯 I’m looking to collaborate on **Skype** and **Telegram**
 
