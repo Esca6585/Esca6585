@@ -19,7 +19,7 @@
 
 - 📱 How to contact me **+993-65-65-65-85 (tmcell)
 
-- 📱 Contact with me on WhatsApp **+99365656585 (WhatsApp number)![Uploading 2243992_mobile_phone_whatsapp_app_call_icon.png…]()
+- 📱 Contact with me on WhatsApp **+99365656585 (WhatsApp number)
 
 - My Projects: 
 
